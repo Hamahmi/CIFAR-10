@@ -1,4 +1,4 @@
 # CIFAR-10
 ML
 
-Best Acc so far : **84.6%**
+Best Acc so far : **86.52%**
